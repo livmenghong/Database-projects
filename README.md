@@ -11,7 +11,7 @@ In order to launch the API, in your terminal, please follow these commands:
 
 ```
 
-cd ./Student_22232385/3.CourseworkThree
+cd <file_path>
 python App.py
 
 ```
